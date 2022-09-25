@@ -1,0 +1,37 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Value of Work Done",
+    "width": 800,
+    "height": 400,
+    "projection": {"type": "equalEarth"},
+   "data": {
+      "url": "https://raw.githubusercontent.com/jree0008/FIT3179-Vis-2/main/ne_50m.json",
+      "format": {"type": "json" }
+    },
+    "transform": [
+      {
+        "lookup": "properties.name",
+        "from": {
+          "data": {
+            "url": "https://raw.githubusercontent.com/jree0008/FIT3179-Vis-2/main/data/Value-of-work-done.csv"
+          },
+          "key": "State",
+           "fields": ["Date","Value"]
+            }
+      },
+      {"calculate": "datum.Value + 0.1", "as": "Value of Work"}
+    ],
+    "mark": {"type": "geoshape"},
+    "encoding": {
+      "color": {
+        "field": "Value of Work done",
+        "type": "quantitative",
+        "scale": {"type": "log"}
+      },
+      "tooltip": [
+        {"field": "properties.name", "type": "nominal", "title": "State"},
+        {"field": "Value of Work Done", "type": "quantitative"}
+      ]
+    }
+  }
+        
