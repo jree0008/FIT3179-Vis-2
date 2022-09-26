@@ -3,17 +3,21 @@
     "title": "Value of Work Done",
     "width": 800,
     "height": 400,
-    "projection": {"type": "equalEarth"},
+    "projection": {
+      "type": "albers",
+      "scale": 600,
+      "rotate":[-140, 37, 0],
+      "center": [-6, 9]},
    "data": {
       "url": "https://raw.githubusercontent.com/jree0008/FIT3179-Vis-2/main/ne_50m.json",
-      "format": {"type": "json" }
+      "format": {"type": "topojson","feature": "ne_50m_admin_1_states_provinces" }
     },
     "transform": [
       {
         "lookup": "properties.name",
         "from": {
           "data": {
-            "url": "https://raw.githubusercontent.com/jree0008/FIT3179-Vis-2/main/data/Value-of-work-done.csv"
+            "url": "https://raw.githubusercontent.com/jree0008/FIT3179-Vis-2/main/data/8762004.csv"
           },
           "key": "State",
            "fields": ["Date","Value"]
@@ -24,13 +28,13 @@
     "mark": {"type": "geoshape"},
     "encoding": {
       "color": {
-        "field": "Value of Work done",
+        "field": "Value",
         "type": "quantitative",
         "scale": {"type": "log"}
       },
       "tooltip": [
         {"field": "properties.name", "type": "nominal", "title": "State"},
-        {"field": "Value of Work Done", "type": "quantitative"}
+        {"field": "Value", "type": "quantitative"}
       ]
     }
   }
