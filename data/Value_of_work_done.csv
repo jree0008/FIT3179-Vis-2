@@ -1,0 +1,289 @@
+Year,State,Value
+1987,Australian Capital Territory,29431.27608
+1988,Australian Capital Territory,46335.12163
+1989,Australian Capital Territory,50717.1123
+1990,Australian Capital Territory,51630.02903
+1991,Australian Capital Territory,52031.5221
+1992,Australian Capital Territory,60967.98518
+1993,Australian Capital Territory,59593.30155
+1994,Australian Capital Territory,61717.41924
+1995,Australian Capital Territory,46988.07429
+1996,Australian Capital Territory,44486.7824
+1997,Australian Capital Territory,41863.05866
+1998,Australian Capital Territory,52193.81073
+1999,Australian Capital Territory,67402.70854
+2000,Australian Capital Territory,81582.56869
+2001,Australian Capital Territory,62947.28454
+2002,Australian Capital Territory,63182.37928
+2003,Australian Capital Territory,79160.14875
+2004,Australian Capital Territory,79693.77111
+2005,Australian Capital Territory,69799.8657
+2006,Australian Capital Territory,91740.1986
+2007,Australian Capital Territory,91708.5344
+2008,Australian Capital Territory,108111.8979
+2009,Australian Capital Territory,97633.68718
+2010,Australian Capital Territory,162673.7749
+2011,Australian Capital Territory,222944.2888
+2012,Australian Capital Territory,215933.882
+2013,Australian Capital Territory,237710.2871
+2014,Australian Capital Territory,206717.7902
+2015,Australian Capital Territory,172374.5413
+2016,Australian Capital Territory,193605.7565
+2017,Australian Capital Territory,237350.8154
+2018,Australian Capital Territory,215082.0934
+2019,Australian Capital Territory,157179.8753
+2020,Australian Capital Territory,136423.0705
+2021,Australian Capital Territory,155139.2842
+2022,Australian Capital Territory,35608.47524
+1987,New South Wales,23271.48791
+1988,New South Wales,45648.07182
+1989,New South Wales,52713.75655
+1990,New South Wales,67638.52403
+1991,New South Wales,68678.0402
+1992,New South Wales,65199.02968
+1993,New South Wales,66728.98625
+1994,New South Wales,74681.96433
+1995,New South Wales,82534.17532
+1996,New South Wales,84832.31942
+1997,New South Wales,75806.55235
+1998,New South Wales,88348.85084
+1999,New South Wales,92824.59866
+2000,New South Wales,98098.78076
+2001,New South Wales,90663.62628
+2002,New South Wales,87438.49385
+2003,New South Wales,108547.0702
+2004,New South Wales,126760.4187
+2005,New South Wales,156185.6355
+2006,New South Wales,148093.7679
+2007,New South Wales,163410.5079
+2008,New South Wales,215177.2458
+2009,New South Wales,231710.8585
+2010,New South Wales,236154.4533
+2011,New South Wales,273675.3618
+2012,New South Wales,323472.6839
+2013,New South Wales,280842.9959
+2014,New South Wales,232469.6156
+2015,New South Wales,212898.7475
+2016,New South Wales,227652.8464
+2017,New South Wales,278148.0173
+2018,New South Wales,317337.0525
+2019,New South Wales,316620.3148
+2020,New South Wales,295402.7523
+2021,New South Wales,296669.5581
+2022,New South Wales,74219.14696
+1987,Northern Territory,48502.00962
+1988,Northern Territory,97322.54656
+1989,Northern Territory,114974.7411
+1990,Northern Territory,107303.2141
+1991,Northern Territory,80050.05591
+1992,Northern Territory,69519.50241
+1993,Northern Territory,110216.3412
+1994,Northern Territory,142655.4714
+1995,Northern Territory,131297.8925
+1996,Northern Territory,116264.2182
+1997,Northern Territory,93018.99997
+1998,Northern Territory,147444.8513
+1999,Northern Territory,161616.1611
+2000,Northern Territory,100764.796
+2001,Northern Territory,110381.969
+2002,Northern Territory,915684.5586
+2003,Northern Territory,696653.4295
+2004,Northern Territory,760086.432
+2005,Northern Territory,956324.1049
+2006,Northern Territory,880516.6204
+2007,Northern Territory,586923.8932
+2008,Northern Territory,934708.4461
+2009,Northern Territory,906880.1891
+2010,Northern Territory,402818.0588
+2011,Northern Territory,568906.7144
+2012,Northern Territory,1583812.785
+2013,Northern Territory,2601249.041
+2014,Northern Territory,2953272.214
+2015,Northern Territory,2948849.614
+2016,Northern Territory,2317274.544
+2017,Northern Territory,2498006.838
+2018,Northern Territory,1529403.611
+2019,Northern Territory,537490.5513
+2020,Northern Territory,521632.4817
+2021,Northern Territory,697770.3613
+2022,Northern Territory,195975.6068
+1987,Queensland,33219.1557
+1988,Queensland,68155.09988
+1989,Queensland,72988.74638
+1990,Queensland,81509.82473
+1991,Queensland,78485.47713
+1992,Queensland,75758.28994
+1993,Queensland,86676.52841
+1994,Queensland,92320.90262
+1995,Queensland,92522.59006
+1996,Queensland,99302.5934
+1997,Queensland,108130.325
+1998,Queensland,121647.1626
+1999,Queensland,148980.5018
+2000,Queensland,140050.0895
+2001,Queensland,128559.2605
+2002,Queensland,139750.8405
+2003,Queensland,145945.7445
+2004,Queensland,163554.3577
+2005,Queensland,204547.3162
+2006,Queensland,279982.2209
+2007,Queensland,357916.5459
+2008,Queensland,466979.7088
+2009,Queensland,471885.8813
+2010,Queensland,453282.5153
+2011,Queensland,692241.1457
+2012,Queensland,892518.4945
+2013,Queensland,973741.3802
+2014,Queensland,830496.3057
+2015,Queensland,468025.6253
+2016,Queensland,368781.8276
+2017,Queensland,425591.9741
+2018,Queensland,450962.1037
+2019,Queensland,399196.9592
+2020,Queensland,386973.7707
+2021,Queensland,386983.1253
+2022,Queensland,87073.65309
+1987,South Australia,18163.41374
+1988,South Australia,44039.0209
+1989,South Australia,52001.02569
+1990,South Australia,55855.82019
+1991,South Australia,57469.04448
+1992,South Australia,45027.11529
+1993,South Australia,55876.86511
+1994,South Australia,48495.16785
+1995,South Australia,45313.15886
+1996,South Australia,51603.40566
+1997,South Australia,71958.06809
+1998,South Australia,75950.29991
+1999,South Australia,83918.78124
+2000,South Australia,81058.22823
+2001,South Australia,84582.9207
+2002,South Australia,103562.7298
+2003,South Australia,120536.8561
+2004,South Australia,121540.5499
+2005,South Australia,123902.8537
+2006,South Australia,134676.2654
+2007,South Australia,162674.0323
+2008,South Australia,190306.63
+2009,South Australia,265849.0182
+2010,South Australia,274336.9944
+2011,South Australia,303350.4983
+2012,South Australia,319548.1751
+2013,South Australia,359087.4209
+2014,South Australia,281040.529
+2015,South Australia,272612.4206
+2016,South Australia,261812.9825
+2017,South Australia,330007.2393
+2018,South Australia,371465.3987
+2019,South Australia,365933.7465
+2020,South Australia,326006.5328
+2021,South Australia,411831.747
+2022,South Australia,95647.88473
+1987,Tasmania,28846.69504
+1988,Tasmania,63415.1074
+1989,Tasmania,59847.39236
+1990,Tasmania,53297.30346
+1991,Tasmania,64122.80013
+1992,Tasmania,63162.45657
+1993,Tasmania,60189.69621
+1994,Tasmania,42708.05781
+1995,Tasmania,47856.29466
+1996,Tasmania,53907.34027
+1997,Tasmania,46689.51234
+1998,Tasmania,51980.13794
+1999,Tasmania,53558.04969
+2000,Tasmania,50238.4083
+2001,Tasmania,58831.62348
+2002,Tasmania,112946.5755
+2003,Tasmania,76520.15424
+2004,Tasmania,115481.2489
+2005,Tasmania,132820.7633
+2006,Tasmania,175833.0634
+2007,Tasmania,187908.0925
+2008,Tasmania,196278.3351
+2009,Tasmania,191248.4349
+2010,Tasmania,183355.9342
+2011,Tasmania,182139.0098
+2012,Tasmania,232696.8766
+2013,Tasmania,239009.3953
+2014,Tasmania,263312.0236
+2015,Tasmania,237757.8932
+2016,Tasmania,220895.6726
+2017,Tasmania,240990.2161
+2018,Tasmania,264211.8883
+2019,Tasmania,289467.7205
+2020,Tasmania,261556.2885
+2021,Tasmania,310626.2688
+2022,Tasmania,85074.89079
+1987,Victoria,19231.84935
+1988,Victoria,41499.61135
+1989,Victoria,47137.4243
+1990,Victoria,55013.11167
+1991,Victoria,46807.19955
+1992,Victoria,43250.59086
+1993,Victoria,48864.42379
+1994,Victoria,54767.77303
+1995,Victoria,52909.88257
+1996,Victoria,52046.50648
+1997,Victoria,59513.88325
+1998,Victoria,78858.67436
+1999,Victoria,80135.82906
+2000,Victoria,69659.05042
+2001,Victoria,67840.35752
+2002,Victoria,79060.99552
+2003,Victoria,94236.05283
+2004,Victoria,106644.0764
+2005,Victoria,138393.7138
+2006,Victoria,144262.3944
+2007,Victoria,137912.0888
+2008,Victoria,150306.0658
+2009,Victoria,167674.1893
+2010,Victoria,186015.9737
+2011,Victoria,210267.2645
+2012,Victoria,204823.8048
+2013,Victoria,178677.8427
+2014,Victoria,169919.2716
+2015,Victoria,175123.4121
+2016,Victoria,187955.1538
+2017,Victoria,217079.784
+2018,Victoria,290207.38
+2019,Victoria,270205.0162
+2020,Victoria,284628.0829
+2021,Victoria,288846.579
+2022,Victoria,73637.24828
+1987,Western Australia,50230.0736
+1988,Western Australia,103626.6738
+1989,Western Australia,99531.76435
+1990,Western Australia,80982.86961
+1991,Western Australia,92054.16845
+1992,Western Australia,88661.31617
+1993,Western Australia,102696.4164
+1994,Western Australia,95577.14824
+1995,Western Australia,119604.3781
+1996,Western Australia,158107.9255
+1997,Western Australia,155288.619
+1998,Western Australia,190971.6957
+1999,Western Australia,162124.6809
+2000,Western Australia,126076.4138
+2001,Western Australia,142646.8414
+2002,Western Australia,197502.8636
+2003,Western Australia,251877.0349
+2004,Western Australia,268122.0362
+2005,Western Australia,403202.7324
+2006,Western Australia,694055.635
+2007,Western Australia,866779.9105
+2008,Western Australia,993344.2044
+2009,Western Australia,1005811.464
+2010,Western Australia,1048750.329
+2011,Western Australia,1350256.618
+2012,Western Australia,1897207.821
+2013,Western Australia,1718459.035
+2014,Western Australia,1623547.523
+2015,Western Australia,1655399.541
+2016,Western Australia,998428.4543
+2017,Western Australia,1412308.612
+2018,Western Australia,697389.7607
+2019,Western Australia,598966.1057
+2020,Western Australia,695824.4639
+2021,Western Australia,737400.9405
+2022,Western Australia,168244.6136
