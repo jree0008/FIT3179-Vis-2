@@ -1,17 +1,17 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Value of Work Done, States and Territories",
-  "width": 800,
+  "title": "Value of Infrastructure Work Done for all States and Territories",
+  "width" :700,
   "height": 400,
   "projection": {
        "type": "albers",
-       "scale": 600,
+       "scale": 700,
        "rotate":[-140, 37, 0],
        "center": [-6, 9]},
 "params": [
     {
       "name": "Year_selection",
-      "value": 2021,
+      "value": 1988,
       "bind": {
         "input": "range",
         "min": 1988,
@@ -65,7 +65,8 @@
            "color": {
              "field": "Value",
              "type": "quantitative",
-             "scale": {"type": "linear", "domain":[1, 3000000]}
+             "scale": {"type": "linear", "domain":[1000000, 3000000]},
+             "title": "$,000 per 100,000"
              },
              "tooltip": [
                {"field": "State", "type": "nominal", "title": "State"},

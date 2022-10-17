@@ -1,6 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Value of Work Done by Industry",
+  "title": "Value of Infrastucture Work done, planned and commenced by Industry",
+  "width": 1000,
   "data": {"url":"https://raw.githubusercontent.com/jree0008/FIT3179-Vis-2/main/data/8762006.csv"
    
   },
@@ -8,10 +9,10 @@
   "params": [
     {
       "name": "Year_selection",
-      "value": 1987,
+      "value": 1988,
       "bind": {
         "input": "range",
-        "min": 1987,
+        "min": 1988,
         "max": 2021,
         "step": 1,
         "name": "Year:  "
@@ -35,7 +36,8 @@
         
         "field": {"repeat": "layer"},
         "type": "quantitative",
-        "title": "Total Value ($,000)"
+        "title": "Total Value ($,000)",
+        "scale" :{ "domain":[0, 500000000]}
         
         
         
